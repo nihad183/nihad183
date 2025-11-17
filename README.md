@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/nihad183/nihad183/main/image_2025-11-17_183251953.png" width="80px" height="50px" />
+<img src="https://raw.githubusercontent.com/nihad183/nihad183/main/image_2025-11-17_183251953.png" width="80%" height="150px" />
 
 </p>
 
