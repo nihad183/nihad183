@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://i.imgur.com/czWgO3M.png](https://i.pinimg.com/736x/19/e4/a2/19e4a2cad8d43690a70eb971740d75b2.jpg)" width="100%" />
+<img src="https://raw.githubusercontent.com/nihad183/nihad183/main/banner.png" width="100%" />
+
 </p>
 
 <h1 align="center">👋 Hi, I'm Nihad!</h1>
@@ -63,8 +64,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?nihad183=nihadzr&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?nihad183=nihadzr&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?nihad183=nihad183&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?nihad183=nihad183&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
