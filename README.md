@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/nihad183/nihad183/main/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/nihad183/nihad183/main/image_2025-11-17_183251953.png" width="100%" />
 
 </p>
 
@@ -58,15 +58,6 @@
 - 🧩 Problem Solving  
 - 🎯 Task Planning & Productivity  
 - 💬 Communication & Collaboration  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?nihad183=nihad183&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?nihad183=nihad183&layout=compact&theme=tokyonight" height="165" />
-</p>
 
 ---
 
